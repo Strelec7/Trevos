@@ -1,0 +1,36 @@
+
+
+#minimum {
+    font-weight: bold;
+    background-color: yellow;
+}
+#maximum {
+    font-weight: bold;
+    background-color: red;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+h1{
+    margin: 0, auto, auto, 40px;
+    text-align: center;
+}
+
+.container  {
+    text-align: center;
+    justify-content: space-evenly;
+    max-width: 250px;
+    margin: auto;
+}
+
+button {
+  padding: 20px;
+  background: #FF990088;
+  border-radius: 25px;
+  margin:5px;
+}
+
